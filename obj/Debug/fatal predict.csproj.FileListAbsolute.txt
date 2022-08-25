@@ -1,0 +1,14 @@
+C:\Users\vitalya\source\repos\fatal predict\bin\Debug\fatal predict.exe.config
+C:\Users\vitalya\source\repos\fatal predict\bin\Debug\fatal predict.exe
+C:\Users\vitalya\source\repos\fatal predict\bin\Debug\fatal predict.pdb
+C:\Users\vitalya\source\repos\fatal predict\obj\Debug\fatal_predict.Form1.resources
+C:\Users\vitalya\source\repos\fatal predict\obj\Debug\fatal_predict.Properties.Resources.resources
+C:\Users\vitalya\source\repos\fatal predict\obj\Debug\fatal predict.csproj.GenerateResource.cache
+C:\Users\vitalya\source\repos\fatal predict\obj\Debug\fatal predict.csproj.CoreCompileInputs.cache
+C:\Users\vitalya\source\repos\fatal predict\obj\Debug\fatal predict.exe
+C:\Users\vitalya\source\repos\fatal predict\obj\Debug\fatal predict.pdb
+C:\Users\vitalya\source\repos\fatal predict\bin\Debug\predictionConfig.json
+C:\Users\vitalya\source\repos\fatal predict\bin\Debug\Newtonsoft.Json.dll
+C:\Users\vitalya\source\repos\fatal predict\bin\Debug\Newtonsoft.Json.xml
+C:\Users\vitalya\source\repos\fatal predict\obj\Debug\fatal predict.csproj.CopyComplete
+C:\Users\vitalya\source\repos\fatal predict\obj\Debug\fatal predict.csproj.AssemblyReference.cache
